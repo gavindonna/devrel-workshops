@@ -1,3 +1,3 @@
 export const Apikey = {
-    apiKey:  "Cu90FMgvcGJEnzYt-PnBX1YlM00TyY5ClX_Cp2WLWOA"
+    apiKey:  "uVy1ULdJW9RpmJU2JOUS35ZmjSbUeTJ6SGCp2Lum7Qc"
 }
